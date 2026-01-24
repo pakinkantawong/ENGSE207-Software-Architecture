@@ -1,0 +1,28 @@
+# 🏗️ Team6-ENGSE207-Software-Architecture
+## 👥 สมาชิกในทีม (Team 6)
+
+<div align="center">
+
+| ลำดับ | ชื่อ | นามสกุล | รหัสนักศึกษา | หน้าที่ในทีม | 
+|------|------|----------|----------------|----------------|
+| 1 | นายภาคิน | กันทะวงค์ | 67543210062-5 | Team Leader/po |
+| 2 | นายธวัชชัย  | สุหงษา | 67543210019-5 | DevB (Backend/Logic Developer) |
+| 3 | นายกิตติชัย  |โมรารักษ์ | 67543210012-0 | DevA (Frontend/UX Developer)|
+| 4 | นายพชร | จันทร์ยวง | 67543210039-3 | System Analyst |
+| 5 | นายชัยมนัส   | วัฒนปรีดา | 67543210069-0 | Tester |
+
+</div>
+
+#  วิธี Clone repo
+`git clone https://github.com/pakinkantawong/Team6-ENGSE207-Software-Architecture`
+
+# วิธี push
+---
+`git status`
+---
+`git add . `
+---
+`git commit -m "อัปเดตไฟล์และโครงสร้างโปรเจกต์"`
+---
+`git push origin main `
+---
