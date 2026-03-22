@@ -1,4 +1,3 @@
-mkdir -p docs && cat > docs/ANALYSIS.md << 'EOF'
 # การวิเคราะห์เปรียบเทียบ: VM vs Docker Deployment
 ## ENGSE207 - Week 6 N-Tier Architecture
 
